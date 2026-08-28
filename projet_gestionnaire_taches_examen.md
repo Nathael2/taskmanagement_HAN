@@ -53,6 +53,7 @@ projet-gestionnaire-taches/
    - Configuration CI/CD
    - Déploiement automatisé
    - Monitoring
+   - Docker(Bonus)
 
 ### Tests et Qualité
 
@@ -76,6 +77,8 @@ projet-gestionnaire-taches/
 
 2. **Déploiement Continu**
 
+3. **Conteneurisation Front-/Backend**
+
 ## Compétences Évaluées
 
 ### README
@@ -97,6 +100,9 @@ Captures d'écran grandement appréciées(pas obligatoires).
 - Configuration du pipeline
 - Automatisation des déploiements
 - Monitoring et documentation
+
+### Pour aller plus loin(Points bonus)
+- Conteneurisation
 
 ### Innovation(ici c'est facultatif)
   - Fonctionnalités bonus

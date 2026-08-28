@@ -1,10 +1,11 @@
 node_modules/
-package-lock.json
 npm-debug.log*
 
 /frontend/build
 /frontend/dist
+/frontend/package-lock.json
 /backend/dist
+/backend/package-lock.json
 
 .env
 .env.local

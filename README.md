@@ -457,3 +457,7 @@ Un test E2E reproduit exactement ce que ferait un utilisateur (se connecter, nav
 Cette approche offre une validation globale du système dans des conditions proches de la production.
 Cependant, les tests end-to-end nécessitent aussi des compétences spécifiques pour éviter qu’ils ne deviennent fragiles et sources de faux positifs
 La pyramide suggère une proportion : beaucoup de tests unitaires, un nombre moyen de tests d’intégration, et quelques tests E2E ciblés sur les parcours critiques.
+
+
+
+Note: Auriane a rencontré des difficultés durant le TP à cause d'un compte Github auquel elle ne parvenait plus à se connecter. Elle a travailllé sur le projet mais n'a pas pu pousser sa branche.
